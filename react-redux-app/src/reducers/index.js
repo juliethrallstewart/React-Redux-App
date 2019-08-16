@@ -1,1 +1,1 @@
-export { reducer } from './randomFactReducer';
+export { reducer } from './charactersReducer';
