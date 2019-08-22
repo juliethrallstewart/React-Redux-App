@@ -1,0 +1,6 @@
+export {
+	getData,
+	FETCH_CHARACTER_DATA_START,
+	FETCH_CHARACTER_DATA_SUCCESS,
+	FETCH_CHARACTER_DATA_FAILURE
+} from './characterActions';
